@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\bin\Debug\net9.0\ParOuImpar.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\bin\Debug\net9.0\ParOuImpar.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\bin\Debug\net9.0\ParOuImpar.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\bin\Debug\net9.0\ParOuImpar.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\bin\Debug\net9.0\ParOuImpar.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\refint\ParOuImpar.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ParOuImpar.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ParOuImpar\obj\Debug\net9.0\ref\ParOuImpar.dll
