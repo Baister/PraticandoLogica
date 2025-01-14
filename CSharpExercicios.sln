@@ -1,0 +1,29 @@
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.2.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Lista_De_Condicionais_e_Loops", "Lista_De_Condicionais_e_Loops", "{F2A36B31-5A4A-86AD-032B-86202DC11A44}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParOuImpar", "Lista_De_Condicionais_e_Loops\ParOuImpar\ParOuImpar.csproj", "{A0E26AE3-26A3-66A1-5025-C483648C0517}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{A0E26AE3-26A3-66A1-5025-C483648C0517}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0E26AE3-26A3-66A1-5025-C483648C0517}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0E26AE3-26A3-66A1-5025-C483648C0517}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0E26AE3-26A3-66A1-5025-C483648C0517}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(NestedProjects) = preSolution
+		{A0E26AE3-26A3-66A1-5025-C483648C0517} = {F2A36B31-5A4A-86AD-032B-86202DC11A44}
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {0BDE8FE5-BA89-4EA6-A5E0-680CF7AB74B8}
+	EndGlobalSection
+EndGlobal
