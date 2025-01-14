@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\bin\Debug\net9.0\NumerosPrimos.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\refint\NumerosPrimos.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\NumerosPrimos.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\NumerosPrimos\obj\Debug\net9.0\ref\NumerosPrimos.dll
