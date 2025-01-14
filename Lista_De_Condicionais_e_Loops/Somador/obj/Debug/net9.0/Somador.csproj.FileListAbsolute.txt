@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\bin\Debug\net9.0\Somador.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\bin\Debug\net9.0\Somador.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\bin\Debug\net9.0\Somador.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\bin\Debug\net9.0\Somador.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\bin\Debug\net9.0\Somador.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\refint\Somador.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\Somador.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Somador\obj\Debug\net9.0\ref\Somador.dll
