@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\bin\Debug\net9.0\ContadorDeVogais.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\bin\Debug\net9.0\ContadorDeVogais.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\bin\Debug\net9.0\ContadorDeVogais.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\bin\Debug\net9.0\ContadorDeVogais.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\bin\Debug\net9.0\ContadorDeVogais.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\refint\ContadorDeVogais.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ContadorDeVogais.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContadorDeVogais\obj\Debug\net9.0\ref\ContadorDeVogais.dll
