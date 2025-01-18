@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("ContadorDeVogais")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+9a7df1985f7e0bf79c10105e4ffd786929cae39e")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+a1d004e8a767b5e345ff0b1c70f7d42208fbf4e8")]
 [assembly: System.Reflection.AssemblyProductAttribute("ContadorDeVogais")]
 [assembly: System.Reflection.AssemblyTitleAttribute("ContadorDeVogais")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

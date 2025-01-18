@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\bin\Debug\net9.0\MaiorEntreNumeros.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\bin\Debug\net9.0\MaiorEntreNumeros.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\bin\Debug\net9.0\MaiorEntreNumeros.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\bin\Debug\net9.0\MaiorEntreNumeros.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\bin\Debug\net9.0\MaiorEntreNumeros.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\refint\MaiorEntreNumeros.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\MaiorEntreNumeros.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\MaiorEntreNumeros\obj\Debug\net9.0\ref\MaiorEntreNumeros.dll
