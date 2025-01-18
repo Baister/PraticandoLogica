@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\bin\Debug\net9.0\ConversorDeTemperatura.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\bin\Debug\net9.0\ConversorDeTemperatura.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\bin\Debug\net9.0\ConversorDeTemperatura.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\bin\Debug\net9.0\ConversorDeTemperatura.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\bin\Debug\net9.0\ConversorDeTemperatura.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\refint\ConversorDeTemperatura.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ConversorDeTemperatura.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ConversorDeTemperatura\obj\Debug\net9.0\ref\ConversorDeTemperatura.dll
