@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\bin\Debug\net9.0\Palindromo.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\bin\Debug\net9.0\Palindromo.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\bin\Debug\net9.0\Palindromo.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\bin\Debug\net9.0\Palindromo.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\bin\Debug\net9.0\Palindromo.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\refint\Palindromo.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\Palindromo.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\Palindromo\obj\Debug\net9.0\ref\Palindromo.dll
