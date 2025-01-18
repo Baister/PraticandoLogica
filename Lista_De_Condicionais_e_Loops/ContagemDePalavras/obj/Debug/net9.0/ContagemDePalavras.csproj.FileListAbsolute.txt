@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\bin\Debug\net9.0\ContagemDePalavras.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\bin\Debug\net9.0\ContagemDePalavras.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\bin\Debug\net9.0\ContagemDePalavras.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\bin\Debug\net9.0\ContagemDePalavras.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\bin\Debug\net9.0\ContagemDePalavras.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\refint\ContagemDePalavras.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ContagemDePalavras.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ContagemDePalavras\obj\Debug\net9.0\ref\ContagemDePalavras.dll
