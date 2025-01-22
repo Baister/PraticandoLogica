@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\bin\Debug\net9.0\ReversoString.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\bin\Debug\net9.0\ReversoString.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\bin\Debug\net9.0\ReversoString.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\bin\Debug\net9.0\ReversoString.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\bin\Debug\net9.0\ReversoString.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\refint\ReversoString.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ReversoString.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\ReversoString\obj\Debug\net9.0\ref\ReversoString.dll
