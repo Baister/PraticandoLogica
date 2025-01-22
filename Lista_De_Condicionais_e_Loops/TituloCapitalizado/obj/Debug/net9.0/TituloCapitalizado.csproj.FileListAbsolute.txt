@@ -1,0 +1,15 @@
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\bin\Debug\net9.0\TituloCapitalizado.exe
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\bin\Debug\net9.0\TituloCapitalizado.deps.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\bin\Debug\net9.0\TituloCapitalizado.runtimeconfig.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\bin\Debug\net9.0\TituloCapitalizado.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\bin\Debug\net9.0\TituloCapitalizado.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.AssemblyInfoInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.AssemblyInfo.cs
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.csproj.CoreCompileInputs.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.sourcelink.json
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\refint\TituloCapitalizado.dll
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.pdb
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\TituloCapitalizado.genruntimeconfig.cache
+C:\Users\Gustavo\Desktop\CSharpExercicios\Lista_De_Condicionais_e_Loops\TituloCapitalizado\obj\Debug\net9.0\ref\TituloCapitalizado.dll
